@@ -7,7 +7,7 @@ h1 { color: #333; margin-bottom: 20px; }
     flex: 1; padding: 10px 14px; border: 1px solid #ddd; border-radius: 6px; font-size: 1em;
 }
 .add-form button {
-    padding: 10px 24px; background: #5b6abf; color: white;
+    padding: 10px 24px; background: #4a5aa8; color: white;
     border: none; border-radius: 6px; cursor: pointer;
 }
 .board { display: flex; gap: 20px; }
