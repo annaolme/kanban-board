@@ -16,3 +16,5 @@ Drag-and-drop task board built with React and react-beautiful-dnd. Tasks persist
 npm install
 npm start
 ```
+
+Press Enter to add a new card quickly.
