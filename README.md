@@ -20,3 +20,5 @@ npm start
 Press Enter to add a new card quickly.
 
 Built with react-beautiful-dnd (now deprecated, consider @hello-pangea/dnd).
+
+Board state persists in localStorage.
